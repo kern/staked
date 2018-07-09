@@ -10,7 +10,7 @@ First, install Packer:
 
 ### Decred
 
-    $ make docker-decred # then: docker run -it kern/decred
+    $ make docker-decred # then: docker run -it kern/staked-decred
     $ make packer-decred
 
 ## License
